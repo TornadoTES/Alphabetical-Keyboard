@@ -23,87 +23,84 @@ if (IsKeyPressed.isYPressed()) {
     r.keyPress(KeyEvent.VK_F);
     r.keyRelease(KeyEvent.VK_F);
 }
-if (IsKeyPressed.isQPressed()) {
-    r.keyPress(KeyEvent.VK_A);
-    r.keyRelease(KeyEvent.VK_A);
+if (IsKeyPressed.isUPressed()) {
+    r.keyPress(KeyEvent.VK_G);
+    r.keyRelease(KeyEvent.VK_G);
 }
-if (IsKeyPressed.isQPressed()) {
-    r.keyPress(KeyEvent.VK_A);
-    r.keyRelease(KeyEvent.VK_A);
+if (IsKeyPressed.isIPressed()) {
+    r.keyPress(KeyEvent.VK_H);
+    r.keyRelease(KeyEvent.VK_H);
 }
-if (IsKeyPressed.isQPressed()) {
-    r.keyPress(KeyEvent.VK_A);
-    r.keyRelease(KeyEvent.VK_A);
+if (IsKeyPressed.isOPressed()) {
+    r.keyPress(KeyEvent.VK_I);
+    r.keyRelease(KeyEvent.VK_I);
 }
-if (IsKeyPressed.isQPressed()) {
-    r.keyPress(KeyEvent.VK_A);
-    r.keyRelease(KeyEvent.VK_A);
+if (IsKeyPressed.isPPressed()) {
+    r.keyPress(KeyEvent.VK_J);
+    r.keyRelease(KeyEvent.VK_J);
 }
-if (IsKeyPressed.isQPressed()) {
-    r.keyPress(KeyEvent.VK_A);
-    r.keyRelease(KeyEvent.VK_A);
+if (IsKeyPressed.isAPressed()) {
+    r.keyPress(KeyEvent.VK_K);
+    r.keyRelease(KeyEvent.VK_K);
 }
-if (IsKeyPressed.isQPressed()) {
-    r.keyPress(KeyEvent.VK_A);
-    r.keyRelease(KeyEvent.VK_A);
+if (IsKeyPressed.isSPressed()) {
+    r.keyPress(KeyEvent.VK_L);
+    r.keyRelease(KeyEvent.VK_L);
 }
-if (IsKeyPressed.isQPressed()) {
-    r.keyPress(KeyEvent.VK_A);
-    r.keyRelease(KeyEvent.VK_A);
+if (IsKeyPressed.isDPressed()) {
+    r.keyPress(KeyEvent.VK_M);
+    r.keyRelease(KeyEvent.VK_M);
 }
-if (IsKeyPressed.isQPressed()) {
-    r.keyPress(KeyEvent.VK_A);
-    r.keyRelease(KeyEvent.VK_A);
+if (IsKeyPressed.isFPressed()) {
+    r.keyPress(KeyEvent.VK_N);
+    r.keyRelease(KeyEvent.VK_N);
 }
-if (IsKeyPressed.isQPressed()) {
-    r.keyPress(KeyEvent.VK_A);
-    r.keyRelease(KeyEvent.VK_A);
+if (IsKeyPressed.isGPressed()) {
+    r.keyPress(KeyEvent.VK_O);
+    r.keyRelease(KeyEvent.VK_O);
 }
-if (IsKeyPressed.isQPressed()) {
-    r.keyPress(KeyEvent.VK_A);
-    r.keyRelease(KeyEvent.VK_A);
+if (IsKeyPressed.isHPressed()) {
+    r.keyPress(KeyEvent.VK_P);
+    r.keyRelease(KeyEvent.VK_P);
 }
-if (IsKeyPressed.isQPressed()) {
-    r.keyPress(KeyEvent.VK_A);
-    r.keyRelease(KeyEvent.VK_A);
+if (IsKeyPressed.isJPressed()) {
+    r.keyPress(KeyEvent.VK_Q);
+    r.keyRelease(KeyEvent.VK_Q);
 }
-if (IsKeyPressed.isQPressed()) {
-    r.keyPress(KeyEvent.VK_A);
-    r.keyRelease(KeyEvent.VK_A);
+if (IsKeyPressed.isKPressed()) {
+    r.keyPress(KeyEvent.VK_R);
+    r.keyRelease(KeyEvent.VK_R);
 }
-if (IsKeyPressed.isQPressed()) {
-    r.keyPress(KeyEvent.VK_A);
-    r.keyRelease(KeyEvent.VK_A);
+if (IsKeyPressed.isLPressed()) {
+    r.keyPress(KeyEvent.VK_S);
+    r.keyRelease(KeyEvent.VK_S);
 }
-if (IsKeyPressed.isQPressed()) {
-    r.keyPress(KeyEvent.VK_A);
-    r.keyRelease(KeyEvent.VK_A);
+if (IsKeyPressed.isZPressed()) {
+    r.keyPress(KeyEvent.VK_T);
+    r.keyRelease(KeyEvent.VK_T);
 }
-if (IsKeyPressed.isQPressed()) {
-    r.keyPress(KeyEvent.VK_A);
-    r.keyRelease(KeyEvent.VK_A);
+if (IsKeyPressed.isXPressed()) {
+    r.keyPress(KeyEvent.VK_U);
+    r.keyRelease(KeyEvent.VK_U);
 }
-if (IsKeyPressed.isQPressed()) {
-    r.keyPress(KeyEvent.VK_A);
-    r.keyRelease(KeyEvent.VK_A);
+if (IsKeyPressed.isCPressed()) {
+    r.keyPress(KeyEvent.VK_V);
+    r.keyRelease(KeyEvent.VK_v);
 }
-if (IsKeyPressed.isQPressed()) {
-    r.keyPress(KeyEvent.VK_A);
-    r.keyRelease(KeyEvent.VK_A);
+if (IsKeyPressed.isVPressed()) {
+    r.keyPress(KeyEvent.VK_W);
+    r.keyRelease(KeyEvent.VK_W);
 }
-if (IsKeyPressed.isQPressed()) {
-    r.keyPress(KeyEvent.VK_A);
-    r.keyRelease(KeyEvent.VK_A);
+if (IsKeyPressed.isBPressed()) {
+    r.keyPress(KeyEvent.VK_X);
+    r.keyRelease(KeyEvent.VK_X);
 }
-if (IsKeyPressed.isQPressed()) {
-    r.keyPress(KeyEvent.VK_A);
-    r.keyRelease(KeyEvent.VK_A);
+if (IsKeyPressed.isNPressed()) {
+    r.keyPress(KeyEvent.VK_Y);
+    r.keyRelease(KeyEvent.VK_Y);
 }
-if (IsKeyPressed.isQPressed()) {
-    r.keyPress(KeyEvent.VK_A);
-    r.keyRelease(KeyEvent.VK_A);
+if (IsKeyPressed.isMPressed()) {
+    r.keyPress(KeyEvent.VK_Z);
+    r.keyRelease(KeyEvent.VK_Z);
 }
-if (IsKeyPressed.isQPressed()) {
-    r.keyPress(KeyEvent.VK_A);
-    r.keyRelease(KeyEvent.VK_A);
-}
+
